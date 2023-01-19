@@ -1,0 +1,1 @@
+{"ast":null,"code":"var __jsx = React.createElement;\nimport React from 'react';\nimport ReactLogo from '../react-logo/react-logo';\nimport './startup.scss';\n\nvar Startup = function Startup() {\n  return __jsx(\"div\", {\n    className: \"startup\"\n  }, __jsx(ReactLogo, null));\n};\n\nexport default Startup;","map":null,"metadata":{},"sourceType":"module"}

@@ -1,0 +1,1 @@
+{"ast":null,"code":"var __jsx = React.createElement;\nimport React from \"react\";\nimport \"./layout.scss\";\nimport Nav from \"../nav/nav\";\n\nconst Layout = ({\n  children\n}) => {\n  return __jsx(React.Fragment, null, __jsx(Nav, null), __jsx(\"main\", null, children));\n};\n\nexport default Layout;","map":null,"metadata":{},"sourceType":"module"}

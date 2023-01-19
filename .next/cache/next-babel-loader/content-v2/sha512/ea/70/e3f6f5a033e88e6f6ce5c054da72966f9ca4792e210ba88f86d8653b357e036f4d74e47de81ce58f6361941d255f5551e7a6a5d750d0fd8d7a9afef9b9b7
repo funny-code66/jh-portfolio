@@ -1,0 +1,1 @@
+{"ast":null,"code":"var __jsx = React.createElement;\nimport React from 'react';\nimport './background.scss';\n\nconst Background = ({\n  src,\n  alt = 'background'\n}) => {\n  return __jsx(\"img\", {\n    alt: alt,\n    src: src,\n    className: \"background\"\n  });\n};\n\nexport default Background;","map":null,"metadata":{},"sourceType":"module"}

@@ -1,0 +1,1 @@
+{"code":"(window.webpackJsonp=window.webpackJsonp||[]).push([[16],{\"7fud\":function(n,t,u){(window.__NEXT_P=window.__NEXT_P||[]).push([\"/page-two\",function(){return u(\"VE4Y\")}])},VE4Y:function(n,t,u){\"use strict\";u.r(t);var e=u(\"q1tI\"),o=u.n(e),w=u(\"HLLQ\"),i=o.a.createElement;t.default=function(){return i(w.a,null)}}},[[\"7fud\",0,1]]]);"}
